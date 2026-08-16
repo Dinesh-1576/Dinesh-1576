@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Dinesh 👋
 
-<!--
-**Dinesh-1576/Dinesh-1576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Student at SRM IST-Trichy
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer passionate about building practical and innovative applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🌱 Currently learning Java, DSA and SQL
+- 💡 Interested in Software Development and Full Stack Development
+- 🤖 Exploring Machine Learning
+- 🔧 Using Git, GitHub and VS Code
+- 🎯 Preparing for Software Development placements
+
+### 🛠️ Technical Skills
+
+- **Languages:** Java, Python, C, JavaScript
+- **Web:** HTML, CSS, React.js
+- **Database:** MySQL
+- **Concepts:** Data Structures, OOP
+- **Machine Learning:** NumPy, Pandas
+- **Tools:** Git, GitHub, VS Code
+
+### 📌 Projects
+
+- 🚗 **Smart Parking System** — Web-based parking management system
+- 🧠 **AI Mental Health Risk Detection** — Machine learning project using wearable and chat data
+
+### 📫 Connect With Me
+
+- LinkedIn: Add your LinkedIn profile here
+- GitHub: https://github.com/Dinesh-1576
